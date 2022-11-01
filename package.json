@@ -1,0 +1,22 @@
+{
+  "name": "ac1-3tri-main",
+  "version": "1.0.0",
+  "description": "![GitHub](https://img.shields.io/github/license/julianasandes/AC1-3TRI?style=for-the-badge) ![W3C Validation](https://img.shields.io/w3c-validation/html?style=for-the-badge&targetUrl=https%3A%2F%2Fjulianasandes.github.io%2FAC1-3TRI%2F)",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "mongoose": "^6.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
