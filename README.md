@@ -1,5 +1,5 @@
-![GitHub](https://img.shields.io/github/license/julianasandes/AC1-3TRI?style=for-the-badge)
-![W3C Validation](https://img.shields.io/w3c-validation/html?style=for-the-badge&targetUrl=https%3A%2F%2Fjulianasandes.github.io%2FAC1-3TRI%2F)
+![GitHub](https://img.shields.io/github/license/julianasandes/AC2-3TRI?style=for-the-badge)
+![W3C Validation](https://img.shields.io/w3c-validation/html?style=for-the-badge&targetUrl=https%3A%2F%2Fjulianasandes.github.io%2FAC2-3TRI%2F)
 
 <p>
 <a href="http://jigsaw.w3.org/css-validator/check/referer">
@@ -49,3 +49,24 @@ Clique aqui para acessar **toda a visualização da Documentação** de nosso pr
 (Documentação em andamento, possíveis mudanças podem ocorrer conforme o desenvolvimento do projeto)
 
 ![Documentacao Projeto Copa do Mundo](docs/possiveldocumentacao.jpg)
+
+_________
+
+## 📦 Instalação
+
+Clone ou faça o downlod deste repositório:
+
+```
+# Clone o repositório
+$ git clone https://github.com/JulianaSandes/AC2-3TRI
+```
+
+Instale as dependências do projeto:
+
+```
+# Instale as dependencias
+$ npm install
+# Rode 
+$ npm start
+```
+
